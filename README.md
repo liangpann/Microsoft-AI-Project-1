@@ -22,4 +22,4 @@
 
 - The input testing data file will consist of several new examples to test your data on. THe file will not have a header row, will have one example per line, and each line will consists of a normalised value for each of the non-class attributes separated by commas.
 
-- My progam will output to standard output (a.k.a. "the console"). THe output will be one class value (yes or no) per line - each line representing my program's classification of the corresponding line in the input file.
+- My progam will output to standard output (a.k.a. "the console"). The output will be one class value (yes or no) per line - each line representing my program's classification of the corresponding line in the input file.
