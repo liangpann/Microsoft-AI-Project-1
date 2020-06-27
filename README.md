@@ -20,6 +20,6 @@
 
 - The input training file will consist of several rows of data, each with n attributes plus a single class value (yes or no). The file will not have a header row, will have one example per line, and each line will consist of a normalised value for each of the non-class attributes separated by commas, followed by a class value.
 
-- The input testing data file will consist of several new examples to test your data on. THe file will not have a header row, will have one example per line, and each line will consists of a normalised value for each of the non-class attributes separated by commas.
+- The input testing data file will consist of several new examples to test your data on. The file will not have a header row, will have one example per line, and each line will consists of a normalised value for each of the non-class attributes separated by commas.
 
 - My progam will output to standard output (a.k.a. "the console"). The output will be one class value (yes or no) per line - each line representing my program's classification of the corresponding line in the input file.
