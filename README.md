@@ -7,7 +7,7 @@
 
 2. Environment Setup & Dependencies
 
-- The classifier is named Classifier.py and the training dataset is called pima.csv. The classifier has been written using Python.
+- The classifier is named Classifier.py and the training dataset is called pima.csv. The classifier has been written using Python3. An example test file has been provided called testing.txt.
 
 - The dataset used is the Pima Indian Diabetes dataset. It contains 768 instances described by 8 numeric attributes. There are two classes - yes and no. Each entry in the dataset corresponds to a patient's record; the attribtues are personal characteristics and test measurements; the class shows if the person shows signs of diabetes or not. The patients are from Pima Indiain heritage, hence the name of the dataset.
 
