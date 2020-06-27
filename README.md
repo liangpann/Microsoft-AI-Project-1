@@ -2,9 +2,17 @@
 
 1. Detailed Description of the Idea and Project
 
-- 
+- My project implements the K-Nearest Neighbour and Bayes algorithms on the Pima Indian Diabetes dataset to classify new patients as either having diabetes or not based on new data.
+
 
 2. Environment Setup & Dependencies
+
+- The dataset used is the Pima Indian Diabetes dataset. It contains 768 instances described by 8 numeric attributes. There are two classes - yes and no. Each entry in the dataset corresponds to a patient's record; the attribtues are personal characteristics and test measurements; the class shows if the person shows signs of diabetes or not. The patients are from Pima Indiain heritage, hence the name of the dataset.
+
+- The original dataset is sourced from UCI Machine Learning Repository. However has been modified for consistency and has been pre-processed to normalise the values for each attribute to make sure they are in the range [0,1].
+
+
+3. Step-by-Step instruction on how to train and/or test your model
 
 - My program takes 3 command line arguments. The first argument is the path to the training data file, the second is the path to the testing data file, and the third is the name of the algorithm to be executed (NB for Naive Bayes and kNN for the Nearest Neighbour, where k is replaced with a number; e.g. 5NN).
 
@@ -13,7 +21,3 @@
 - The input testing data file will consist of several new examples to test your data on. THe file will not have a header row, will have one example per line, and each line will consists of a normalised value for each of the non-class attributes separated by commas.
 
 - My progam will output to standard output (a.k.a. "the console"). THe output will be one class value (yes or no) per line - each line representing my program's classification of the corresponding line in the input file.
-
-3. Step-by-Step instruction on how to train and/or test your model
-
-- 
