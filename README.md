@@ -2,7 +2,7 @@
 
 1. Detailed Description of the Idea and Project
 
-- My project implements the K-Nearest Neighbour and Naive Bayes algorithms on the Pima Indian Diabetes dataset to classify new patients as either having diabetes or not based on new medical data ('test data').
+- My project implements the K-Nearest Neighbour and Naive Bayes algorithms (Machine Learning) on the Pima Indian Diabetes dataset to classify new patients as either having diabetes or not based on new medical data ('test data').
 
 
 2. Environment Setup & Dependencies
