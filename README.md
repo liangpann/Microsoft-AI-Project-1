@@ -4,7 +4,7 @@
 
 - My project implements the K-Nearest Neighbour and Naive Bayes algorithms (Machine Learning) on the Pima Indian Diabetes dataset to classify new patients as either having diabetes or not based on new medical data ('test data').
 
-- Information about the project and results are included in the MSA 2020 Project 1 PDF File.
+- More information about the project data and results on the classifiers accuracies are included in the MSA 2020 Project 1 PDF File.
 
 
 2. Environment Setup & Dependencies
